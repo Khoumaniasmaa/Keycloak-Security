@@ -9,18 +9,18 @@
 
 2-public key de wallet-realm
 
-![Screenshot_4](https://user-images.githubusercontent.com/84717947/202553270-edab0deb-2dd5-4f9 e-a00e-729d684a88aa.png)
+![Screenshot_4](https://user-images.githubusercontent.com/84717947/202555517-5ff6107b-af14-45bb-b43e-d7fccf01507d.png)
 
 3- Envoyer un requet post avec grant_type ,client id ,username , password
 
 ![Screenshot_5](https://user-images.githubusercontent.com/84717947/202553566-3b3591f8-3faa-4508-aa8e-921cc00c2eaf.png)
 
-4-Envoyer un requet post avec grant_type ,client id,refresh_token
+4-Tester l'authentification avec le Refresh Token
 
-![Screenshot_6](https://user-images.githubusercontent.com/84717947/202554430-d6a1c236-4f40-4e94-8a89-c7a1ab68d0d8.png)
+![Screenshot_6](https://user-images.githubusercontent.com/84717947/202556587-8cdc3670-95aa-4980-9cc8-63e3839f814f.png)
 
 
-5-Envoyer un requet post avec  client secret
+5-Tester l'authentification avec Client ID et Client Secret
 
 ![Screenshot_7](https://user-images.githubusercontent.com/84717947/202553805-bc7338f1-760e-44ad-83fb-758cd3064914.png)
 
