@@ -1,4 +1,4 @@
-# Part1--Keycloak-Security---How-To-Secure-Distributed-Systems-Using-Oauth2-OIDC-JWT
+# Keycloak-Security
 1-JWT:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/84717947/202553050-23a6f520-4e5d-4d30-90e6-8375df708e29.png)
